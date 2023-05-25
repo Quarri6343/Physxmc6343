@@ -1,0 +1,4 @@
+name: Physxmc6343
+version: '${version}'
+main: com.quarri6343.physxmc6343.Physxmc6343
+api-version: 1.19
